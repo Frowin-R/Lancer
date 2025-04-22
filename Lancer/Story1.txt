@@ -1,0 +1,21 @@
+Test-oneshot before Story -> Group of GMS lancer -> The Tomb of Delios -> Session Ends with Carrier crashing
+
+
+Player start on wreckage planet in small community -> partly fixed background
+Gouverned by priest class that listens to the "Voice of God" -> Really an NHP
+Leader of Village is an abusive Dickhead with 2 devout followers (All 3 have an Mech)
+Group get's send on some excavation together with Young NPC (use to streamline a bit)
+Finds nearly broken communication terminal that Shows a Signal in the "forbidden Zone"
+Group finds old GMS carrier in the forbidden Zone with one Entryside lid by blinking light
+Group get's trapped in an Hangar, only Exit on other side
+Hangar is divided into Training area (90% of Ground Floor), Mech Hangar (10% of Ground Floor) and Control room (Over Mech Hangar, overlooking Training area).
+Training area is nearly impossible to traverse without Mech
+Group meets NHP and learns the truth About the Village -> Everyone is a Clone from Prequell!!!
+Leader and henchman is one of the only survivors that made use of the Situation to live like a king
+Group has to make a binding contract with the NHP to get LL1 and Mechs
+Group get's a battle Simulation while traversing Training area
+Group get's back into Village and can confront Village leader to gain Access to a carrier with Printer
+Session Ends with Incoming message -> Connection to next story
+
+
+After Story -> Mandatory Mission by Carrier -> Cathedral of the Deadstar
