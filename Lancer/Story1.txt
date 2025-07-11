@@ -1,5 +1,18 @@
 Test-oneshot before Story -> Group of GMS lancer -> The Tomb of Delios -> Session Ends with Carrier crashing
+Lars = NPC
+First Mission finished with success 
 
+Second Mission will be split in two:
+First part = Wrapup from First Mission and short fight against Bio-enemy
+Details:
+Dr. Elizabeth Lars tells Group that the most plausible cause for the Extended Survival of the cryo sleeper is an Alien tech
+They have to find the source of this Tech and get a Map of the cave System under the facility 
+Thanks to their idea to attach the drill sonar to their mech this will go quite fast 
+Short Expedition in the Caves with clues for the next Encounter -> Info to Megafauna 
+They find a big crater (open on top --> Nice Map) with a weird Meteor in the Center
+Nanites fly around and suddenly they hear a Growl behind them -> START ENCOUNTER
+
+Second part:
 
 Player start on wreckage planet in small community -> partly fixed background
 Gouverned by priest class that listens to the "Voice of God" -> Really an NHP
